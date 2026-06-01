@@ -109,7 +109,7 @@ $ cat about.txt
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/M16bhardwaj)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/M16bhardwaj)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/mukul-bhardwaj-/)
 
 </div>
 
